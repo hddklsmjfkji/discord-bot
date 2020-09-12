@@ -150,4 +150,4 @@ async def on_message(msg) :
         #help
         elif 'help' in userip :
             await msg.channel.send("Help Docs under construction")
-client.run(DISC_TOKEN)
+client.run("NjEzMjEzNTEwNzA4NjI1NDIw.XVtplQ.e6q-DguUcesv3MWpLQSSTWrldvI")
